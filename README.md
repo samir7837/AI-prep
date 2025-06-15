@@ -1,32 +1,23 @@
-# 📘 Day 1 – Python Practice Problems
+# AI Prep
 
-This notebook contains 8 beginner-level Python problems focused on:
-
-- Functions  
-- Loops and conditionals  
-- Strings and lists  
-- Basic logic building  
+This repository contains structured Jupyter notebooks for practicing Python, statistics, and machine learning concepts. The material aligns with academic coursework and foundational AI/ML skills.
 
 ---
 
-## ✅ Problems Included
+## Contents
 
-1. Greeting Generator  
-2. Odd/Even Checker  
-3. Simple Calculator  
-4. Reverse a String  
-5. Vowel Counter  
-6. Password Strength Checker  
-7. Palindrome Checker   
-8. Fibonacci Series Generator  
+| Day | Topic                             |
+|-----|-----------------------------------|
+| 1   | Python Basics                     |
+| 2   | Descriptive Statistics & Numpy    |
+| 3   | Pandas & Data Cleaning *(up next)*
 
 ---
 
-## 📌 Tools Used
+## Tools & Libraries
+
 - Python 3  
 - Google Colab  
-- Jupyter Notebook format
+- Numpy, Pandas, Matplotlib, Scikit-learn
 
 ---
-
-This is part of my AI minor exam prep and daily upskilling routine.
